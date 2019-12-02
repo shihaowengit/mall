@@ -1,0 +1,69 @@
+<template>
+  <div class="">
+    <ul>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+      <li>111</li>
+    </ul>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'Category'
+}
+</script>
+
+<style>
+
+</style>
